@@ -1,0 +1,8 @@
+{
+  "name": "ShebaCare Digital Hospital",
+  "description": "Modern Bangladeshi hospital management platform featuring appointment booking, diagnostic lab dispatch, simulated bKash & Nagad MFS checkout, doctor clinical workstation with digital Rx authoring, and executive hospital administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
